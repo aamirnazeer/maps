@@ -1,8 +1,4 @@
-import {
-  ComposableMap,
-  Geographies,
-  Geography,
-} from 'react-simple-maps';
+import { ComposableMap, Geographies, Geography } from 'react-simple-maps';
 import db from './db.json';
 import { Tooltip } from 'react-tooltip';
 
@@ -27,7 +23,7 @@ const toolTipTemplate = ({
 }) => {
   return `
   <div>
-    <p>${name}</p>
+    <h3>${name}</h1>
     <p>Population: ${population}</p>
     <p>GDP: ${gdp}</p>
   </div>
@@ -54,6 +50,7 @@ export default function MapChart() {
                 }
                 data-tooltip-html={toolTipTemplate(geo.properties)}
                 data-tooltip-float={true}
+                data-tooltip-variant="light"
               >
                 <Geography
                   key={geo.rsmKey}
@@ -72,10 +69,10 @@ export default function MapChart() {
                       strokeWidth:
                         geo.properties.g20 !== undefined ? '0.2' : '',
                     },
-                    // pressed: {
-                    //   fill: '#E42',
-                    //   outline: 'none',
-                    // },
+                    pressed: {
+                      // fill: '#E42',
+                      outline: 'none',
+                    },
                   }}
                 />
               </a>
