@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .main {
   display: flex;
@@ -54,4 +54,92 @@ ul {
 .legend-heading {
   margin: 0 !important;
   font-weight: bold;
+}
+
+.fact {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  position: absolute;
+  font-size: 13px;
+}
+
+.heading {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.fact1 {
+  bottom: 5%;
+  left: 55%;
+}
+
+.fact2 {
+  bottom: 15%;
+  left: 30%;
+}
+
+.fact3 {
+  bottom: 45%;
+  left: 20%;
+}
+
+.fact4 {
+  bottom: 45%;
+  right: 10%;
+}
+
+.fact5 {
+  bottom: 65%;
+  right: 2%;
+}
+
+.fact6 {
+  bottom: 5%;
+  right: 10%;
+}
+
+.fact7 {
+  bottom: 25%;
+  right: 2%;
+}
+
+.fact8 {
+  bottom: 25%;
+  right: 25%;
+}
+
+.fact9 {
+  bottom: 25%;
+  right: 45%;
+}
+
+.fact10 {
+  top: 5%;
+  left: 25%;
+}
+
+.fact11 {
+  top: 15%;
+  right: 5%;
+}
+
+.fact12 {
+  bottom: 28%;
+  left: 25%;
+}
+
+.fact13 {
+  top: 5%;
+  right: 15%;
+}
+
+.fact14 {
+  top: 2%;
+  right: 35%;
+}
+
+.fact15 {
+  top: 30%;
+  left: 20%;
 }
