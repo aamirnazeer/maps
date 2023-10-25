@@ -59,7 +59,8 @@ ul {
 }
 
 .fact {
-  border: 1px solid black;
+  border: 1px solid #22272f;
+  border-radius: 4px;
   padding: 10px;
   text-align: center;
   position: absolute;
@@ -67,8 +68,7 @@ ul {
 }
 
 .heading {
-  font-size: 14px;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 .fact1 {

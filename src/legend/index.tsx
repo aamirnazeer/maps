@@ -1,15 +1,15 @@
-import db from "../react-simple-maps/db.json";
+import db from '../react-simple-maps/db.json';
 
 const Legend = () => {
   return (
     <div className="legend-container">
       <div className="legend-heading-box">
         <div className="g20-sidebox" />
-        <p className="legend-heading">G21 Countries (PLUS THE EU)</p>
+        <p className="legend-heading">G21 Countries</p>
       </div>
       <ul>
         {db.objects.countries.geometries.map((el) => {
-          if (el.properties.g20 === "member") {
+          if (el.properties.g20 === 'member') {
             return <li>{el.properties.name}</li>;
           }
         })}
@@ -25,7 +25,7 @@ const Legend = () => {
       </div>
       <ul>
         {db.objects.countries.geometries.map((el) => {
-          if (el.properties.g20 === "guest") {
+          if (el.properties.g20 === 'guest') {
             return <li>{el.properties.name}</li>;
           }
         })}
