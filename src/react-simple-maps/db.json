@@ -57,7 +57,7 @@
             [[47]]
           ],
           "id": "124",
-          "properties": { "name": "Canada" }
+          "properties": { "name": "Canada", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
@@ -115,13 +115,13 @@
             [[89]]
           ],
           "id": "360",
-          "properties": { "name": "Indonesia" }
+          "properties": { "name": "Indonesia", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[90, 91]], [[92, 93, 94, 95, 96, 97]]],
           "id": "032",
-          "properties": { "name": "Argentina" }
+          "properties": { "name": "Argentina", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
@@ -193,7 +193,7 @@
             [[163, 164]]
           ],
           "id": "643",
-          "properties": { "name": "Russia" }
+          "properties": { "name": "Russia", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
@@ -211,7 +211,7 @@
           "type": "MultiPolygon",
           "arcs": [[[169]], [[-161, 170, 171, 172]], [[173]], [[174]]],
           "id": "578",
-          "properties": { "name": "Norway" }
+          "properties": { "name": "Norway", "Guest": true }
         },
         {
           "type": "Polygon",
@@ -235,7 +235,7 @@
           "type": "Polygon",
           "arcs": [[178, 179, 180, 181, 182, 183, 184], [185]],
           "id": "710",
-          "properties": { "name": "South Africa" }
+          "properties": { "name": "South Africa", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -247,7 +247,7 @@
           "type": "Polygon",
           "arcs": [[-50, 186, 187, 188, 189]],
           "id": "484",
-          "properties": { "name": "Mexico" }
+          "properties": { "name": "Mexico", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -259,7 +259,7 @@
           "type": "Polygon",
           "arcs": [[-191, -98, 192, 193, 194, 195, 196, 197, 198, 199, 200]],
           "id": "076",
-          "properties": { "name": "Brazil" }
+          "properties": { "name": "Brazil", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -347,7 +347,7 @@
             [[245]]
           ],
           "id": "250",
-          "properties": { "name": "France" }
+          "properties": { "name": "France", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -395,7 +395,7 @@
           "type": "Polygon",
           "arcs": [[258, 259, 260, 261, 262, 263, 264]],
           "id": "686",
-          "properties": { "name": "Senegal" }
+          "properties": { "name": "Senegal", "Guest": true }
         },
         {
           "type": "Polygon",
@@ -455,7 +455,7 @@
           "type": "Polygon",
           "arcs": [[-262, -271, -300, 300, 301, 302, 303]],
           "id": "324",
-          "properties": { "name": "Guinea" }
+          "properties": { "name": "Guinea", "Guest": true }
         },
         {
           "type": "Polygon",
@@ -653,7 +653,7 @@
           "type": "Polygon",
           "arcs": [[-371, -380, 384, 385]],
           "id": "704",
-          "properties": { "name": "Vietnam" }
+          "properties": { "name": "Vietnam", "Guest": true }
         },
         {
           "type": "MultiPolygon",
@@ -665,7 +665,7 @@
           "type": "Polygon",
           "arcs": [[-389, 391]],
           "id": "410",
-          "properties": { "name": "South Korea" }
+          "properties": { "name": "South Korea", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -819,7 +819,7 @@
           "type": "Polygon",
           "arcs": [[-446, 469, -453, 470, -238, 471, 472, 473, 474, 475, 476]],
           "id": "276",
-          "properties": { "name": "Germany" }
+          "properties": { "name": "Germany", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -837,7 +837,7 @@
           "type": "MultiPolygon",
           "arcs": [[[-359, -425, 487, 488, -427, -418]], [[-479, 489, -484]]],
           "id": "792",
-          "properties": { "name": "Turkey" }
+          "properties": { "name": "Turkey", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -873,7 +873,7 @@
           "type": "Polygon",
           "arcs": [[-474, -503, 503]],
           "id": "528",
-          "properties": { "name": "Netherlands" }
+          "properties": { "name": "Netherlands", "Guest": true }
         },
         {
           "type": "Polygon",
@@ -885,7 +885,7 @@
           "type": "Polygon",
           "arcs": [[-505, 506, -242, 507]],
           "id": "724",
-          "properties": { "name": "Spain" }
+          "properties": { "name": "Spain", "Guest": true }
         },
         {
           "type": "Polygon",
@@ -915,7 +915,7 @@
           "type": "MultiPolygon",
           "arcs": [[[518]], [[519]]],
           "id": "036",
-          "properties": { "name": "Australia" }
+          "properties": { "name": "Australia", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -935,7 +935,7 @@
             ]
           ],
           "id": "156",
-          "properties": { "name": "China" }
+          "properties": { "name": "China", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -947,7 +947,7 @@
           "type": "MultiPolygon",
           "arcs": [[[-451, 524, 525, -240, -500]], [[526]], [[527]]],
           "id": "380",
-          "properties": { "name": "Italy" }
+          "properties": { "name": "Italy", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
@@ -1039,7 +1039,7 @@
           "type": "MultiPolygon",
           "arcs": [[[554]], [[555]], [[556]]],
           "id": "392",
-          "properties": { "name": "Japan" }
+          "properties": { "name": "Japan", "G21Member": true }
         },
         {
           "type": "Polygon",
@@ -1057,7 +1057,7 @@
           "type": "Polygon",
           "arcs": [[-346, -362, -356, 559, -354, 560, -352, -365, -559, 561]],
           "id": "682",
-          "properties": { "name": "Saudi Arabia" }
+          "properties": { "name": "Saudi Arabia", "G21Member": true }
         },
         {
           "type": "MultiPolygon",
