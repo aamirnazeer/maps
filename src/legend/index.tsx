@@ -14,7 +14,7 @@ const Legend = () => {
           }
         })}
         <li className="heading">African Union</li>
-        <li className="heading">Europeon Union</li>
+        <li className="heading">European Union</li>
       </ul>
 
       <div>
