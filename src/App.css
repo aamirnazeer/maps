@@ -1,3 +1,6 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
 .main {
   display: flex;
   align-items: center;
@@ -8,12 +11,47 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  outline: double;
   width: 100vw;
-  height: 100vh;
-  margin: auto;
+  height: 98vh;
+  overflow: hidden;
 }
 
 .custom-tooltip {
   outline: 1px solid red;
+}
+
+.legend-container {
+  margin-left: 10px;
+  width: 350px;
+}
+
+ul {
+  list-style-type: none;
+  margin-block-start: 10px;
+}
+
+.g20-sidebox {
+  height: 20px;
+  width: 20px;
+  background-color: #ff7e00;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.guest-sidebox {
+  height: 20px;
+  width: 20px;
+  background-color: #00bdff;
+  border-radius: 3px;
+  margin: 10px;
+}
+
+.legend-heading-box {
+  display: flex;
+  align-items: center;
+}
+
+.legend-heading {
+  margin: 0 !important;
+  font-weight: bold;
 }
