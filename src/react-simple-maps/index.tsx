@@ -40,9 +40,8 @@ export default function MapChart() {
                   key={geo.id}
                   data-tooltip-id="tooltip"
                   data-tooltip-content={
-                    geo.properties.data
-                      ? geo.properties.data
-                      : geo.properties.name
+                    (geo.properties.G21Member || geo.properties.Guest) &&
+                    geo.properties.name
                   }
                   data-tooltip-float={true}
                 >

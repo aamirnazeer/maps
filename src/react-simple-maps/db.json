@@ -35,7 +35,10 @@
             [[27]]
           ],
           "id": "704",
-          "properties": { "name": "Vietnam", "Guest": true }
+          "properties": {
+            "name": "Vietnam.. population: 98,186,856. GDP: $408,802,000,000.",
+            "Guest": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -257,7 +260,7 @@
           ],
           "id": "840",
           "properties": {
-            "name": "United States of America",
+            "name": "United States of America. population: 338,289,857. GDP: $25,462,700,000,000",
             "G21Member": true
           }
         },
@@ -373,7 +376,10 @@
             [[270]]
           ],
           "id": "826",
-          "properties": { "name": "United Kingdom", "G21Member": true }
+          "properties": {
+            "name": "United Kingdom. population: 67,508,936. GDP: $3,070,670,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -416,7 +422,10 @@
             [[311, 312, 313]]
           ],
           "id": "792",
-          "properties": { "name": "Turkey", "G21Member": true }
+          "properties": {
+            "name": "Turkey. population: 85,341,241. GDP: $905,988,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -560,7 +569,10 @@
             [[420]]
           ],
           "id": "724",
-          "properties": { "name": "Spain", "Guest": true }
+          "properties": {
+            "name": "Spain. population: 47,558,630. GDP: $1,397,510,000,000.",
+            "Guest": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -578,13 +590,19 @@
             [[432]]
           ],
           "id": "410",
-          "properties": { "name": "South Korea", "G21Member": true }
+          "properties": {
+            "name": "South Korea. population: 51,815,810. GDP: $1,665,250,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-1, 433, -385, 434, 435, 436, 437], [438]], [[439]]],
           "id": "710",
-          "properties": { "name": "South Africa", "G21Member": true }
+          "properties": {
+            "name": "South Africa. population: 59,893,885. GDP: $405,870,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -641,7 +659,10 @@
           "type": "Polygon",
           "arcs": [[477]],
           "id": "702",
-          "properties": { "name": "Singapore", "Guest": true }
+          "properties": {
+            "name": "Singapore. population: 5,975,689. GDP: $466,789,000,000.",
+            "Guest": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -665,7 +686,10 @@
           "type": "Polygon",
           "arcs": [[491, 492, 493, 494, 495, 496, 497]],
           "id": "686",
-          "properties": { "name": "Senegal", "Guest": true }
+          "properties": {
+            "name": "Senegal. population: 17,316,449. GDP: $27,684,430,244.",
+            "Guest": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -676,7 +700,10 @@
             [[508]]
           ],
           "id": "682",
-          "properties": { "name": "Saudi Arabia", "G21Member": true }
+          "properties": {
+            "name": "Saudi Arabia. population: 36,408,820. GDP: $1,108,150,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -829,7 +856,10 @@
             [[-283, 639]]
           ],
           "id": "643",
-          "properties": { "name": "Russia", "G21Member": true }
+          "properties": {
+            "name": "Russia. population: 144,713,314. GDP: $2,240,420,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1026,7 +1056,10 @@
             [[796]]
           ],
           "id": "578",
-          "properties": { "name": "Norway", "Guest": true }
+          "properties": {
+            "name": "Norway. population: 5,434,319. GDP: $579,267,000,000.",
+            "Guest": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1101,7 +1134,10 @@
             [[846]]
           ],
           "id": "528",
-          "properties": { "name": "Netherlands", "Guest": true }
+          "properties": {
+            "name": "Netherlands. population: 17,564,014. GDP: $991,115,000,000.",
+            "Guest": true
+          }
         },
         {
           "type": "Polygon",
@@ -1196,7 +1232,10 @@
             [[891]]
           ],
           "id": "484",
-          "properties": { "name": "Mexico", "G21Member": true }
+          "properties": {
+            "name": "Mexico. population: 127,504,125. GDP: $1,414,190,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1421,7 +1460,10 @@
             [[1020]]
           ],
           "id": "392",
-          "properties": { "name": "Japan", "G21Member": true }
+          "properties": {
+            "name": "Japan. population: 123,951,692. GDP: $4,231,140,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1442,7 +1484,10 @@
             [[1031]]
           ],
           "id": "380",
-          "properties": { "name": "Italy", "G21Member": true }
+          "properties": {
+            "name": "Italy. population: 59,037,474. GDP: $2,010,430,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1615,7 +1660,10 @@
             [[1183]]
           ],
           "id": "360",
-          "properties": { "name": "Indonesia", "G21Member": true }
+          "properties": {
+            "name": "Indonesia. population: 275,501,339. GDP: $1,319,100,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1636,7 +1684,10 @@
             [[1204]]
           ],
           "id": "356",
-          "properties": { "name": "India", "G21Member": true }
+          "properties": {
+            "name": "India. population: 1,417,173,173. GDP: $3,385,090,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1686,7 +1737,10 @@
           "type": "Polygon",
           "arcs": [[-481, 1228, -1221, -493, -903, 1229, -939]],
           "id": "324",
-          "properties": { "name": "Guinea", "Guest": true }
+          "properties": {
+            "name": "Guinea. population: 13,859,341. GDP: $21,227,749,389.",
+            "Guest": true
+          }
         },
         {
           "type": "Polygon",
@@ -1766,7 +1820,10 @@
             [[1293]]
           ],
           "id": "276",
-          "properties": { "name": "Germany", "G21Member": true }
+          "properties": {
+            "name": "Germany. population: 83,369,843. GDP: $4,072,190,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -1806,7 +1863,10 @@
             [[-386, 1315, 1316]]
           ],
           "id": "250",
-          "properties": { "name": "France", "G21Member": true }
+          "properties": {
+            "name": "France. population: 64,626,628. GDP: $2,782,910,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2152,7 +2212,10 @@
             [[1516]]
           ],
           "id": "156",
-          "properties": { "name": "China", "G21Member": true }
+          "properties": {
+            "name": "China. population: 1,411,750,000. GDP: $17,963,200,000,000",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -2377,7 +2440,10 @@
             [[1707]]
           ],
           "id": "124",
-          "properties": { "name": "Canada", "G21Member": true }
+          "properties": {
+            "name": "Canada. population: 38,454,327. GDP: $2,139,840,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -2468,7 +2534,10 @@
             [[1754]]
           ],
           "id": "076",
-          "properties": { "name": "Brazil", "G21Member": true }
+          "properties": {
+            "name": "Brazil. population: 215,313,498. GDP: $1,920,100,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "Polygon",
@@ -2629,7 +2698,10 @@
             [[1832]]
           ],
           "id": "036",
-          "properties": { "name": "Australia", "G21Member": true }
+          "properties": {
+            "name": "Australia. population: 26,177,413. GDP: $1,675,420,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2669,7 +2741,10 @@
             [[1842]]
           ],
           "id": "032",
-          "properties": { "name": "Argentina", "G21Member": true }
+          "properties": {
+            "name": "Argentina. population: 45,510,318. GDP: $632,770,000,000.",
+            "G21Member": true
+          }
         },
         {
           "type": "MultiPolygon",
