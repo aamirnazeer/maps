@@ -35,7 +35,12 @@
             [[27]]
           ],
           "id": "704",
-          "properties": { "name": "Vietnam" }
+          "properties": {
+            "name": "Vietnam",
+            "g20": "guest",
+            "population": "98,186,856",
+            "gdp": "$408,802,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -256,7 +261,12 @@
             [[219]]
           ],
           "id": "840",
-          "properties": { "name": "United States of America" }
+          "properties": {
+            "name": "United States of America",
+            "g20": "member",
+            "population": "338,289,857",
+            "gdp": "$25,462,700,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -370,7 +380,12 @@
             [[270]]
           ],
           "id": "826",
-          "properties": { "name": "United Kingdom" }
+          "properties": {
+            "name": "United Kingdom",
+            "g20": "member",
+            "population": "67,508,936",
+            "gdp": "$3,070,670,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -413,7 +428,12 @@
             [[311, 312, 313]]
           ],
           "id": "792",
-          "properties": { "name": "Turkey" }
+          "properties": {
+            "name": "Turkey",
+            "g20": "member",
+            "population": "85,341,241",
+            "gdp": "$905,988,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -557,7 +577,11 @@
             [[420]]
           ],
           "id": "724",
-          "properties": { "name": "Spain" }
+          "properties": {
+            "name": "Spain",
+            "population": "47,558,630",
+            "gdp": "$1,397,510,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -575,13 +599,23 @@
             [[432]]
           ],
           "id": "410",
-          "properties": { "name": "South Korea" }
+          "properties": {
+            "name": "South Korea",
+            "g20": "member",
+            "population": "51,815,810",
+            "gdp": "$1,665,250,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-1, 433, -385, 434, 435, 436, 437], [438]], [[439]]],
           "id": "710",
-          "properties": { "name": "South Africa" }
+          "properties": {
+            "name": "South Africa",
+            "g20": "member",
+            "population": "59,893,885",
+            "gdp": "$405,870,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -638,7 +672,12 @@
           "type": "Polygon",
           "arcs": [[477]],
           "id": "702",
-          "properties": { "name": "Singapore" }
+          "properties": {
+            "name": "Singapore",
+            "g20": "guest",
+            "population": "5,975,689",
+            "gdp": "$466,789,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -662,7 +701,12 @@
           "type": "Polygon",
           "arcs": [[491, 492, 493, 494, 495, 496, 497]],
           "id": "686",
-          "properties": { "name": "Senegal" }
+          "properties": {
+            "name": "Senegal",
+            "g20": "guest",
+            "population": "17,316,449",
+            "gdp": "$27,684,430,244"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -673,7 +717,12 @@
             [[508]]
           ],
           "id": "682",
-          "properties": { "name": "Saudi Arabia" }
+          "properties": {
+            "name": "Saudi Arabia",
+            "g20": "member",
+            "population": "36,408,820",
+            "gdp": "$1,108,150,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -826,7 +875,12 @@
             [[-283, 639]]
           ],
           "id": "643",
-          "properties": { "name": "Russia" }
+          "properties": {
+            "name": "Russia",
+            "g20": "member",
+            "population": "144,713,314",
+            "gdp": "$2,240,420,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1023,7 +1077,12 @@
             [[796]]
           ],
           "id": "578",
-          "properties": { "name": "Norway" }
+          "properties": {
+            "name": "Norway",
+            "g20": "guest",
+            "population": "5,434,319",
+            "gdp": "$579,267,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1098,7 +1157,12 @@
             [[846]]
           ],
           "id": "528",
-          "properties": { "name": "Netherlands" }
+          "properties": {
+            "name": "Netherlands",
+            "g20": "guest",
+            "population": "17,564,014",
+            "gdp": "$991,115,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1193,7 +1257,12 @@
             [[891]]
           ],
           "id": "484",
-          "properties": { "name": "Mexico" }
+          "properties": {
+            "name": "Mexico",
+            "g20": "member",
+            "population": "127,504,125",
+            "gdp": "$1,414,190,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1418,7 +1487,12 @@
             [[1020]]
           ],
           "id": "392",
-          "properties": { "name": "Japan" }
+          "properties": {
+            "name": "Japan",
+            "g20": "member",
+            "population": "123,951,692",
+            "gdp": "$4,231,140,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1439,7 +1513,12 @@
             [[1031]]
           ],
           "id": "380",
-          "properties": { "name": "Italy" }
+          "properties": {
+            "name": "Italy",
+            "g20": "member",
+            "population": "59,037,474",
+            "gdp": "$2,010,430,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1612,7 +1691,12 @@
             [[1183]]
           ],
           "id": "360",
-          "properties": { "name": "Indonesia" }
+          "properties": {
+            "name": "Indonesia",
+            "g20": "member",
+            "population": "275,501,339",
+            "gdp": "$1,319,100,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1633,7 +1717,12 @@
             [[1204]]
           ],
           "id": "356",
-          "properties": { "name": "India" }
+          "properties": {
+            "name": "India",
+            "g20": "member",
+            "population": "1,417,173,173",
+            "gdp": "$3,385,090,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1683,7 +1772,12 @@
           "type": "Polygon",
           "arcs": [[-481, 1228, -1221, -493, -903, 1229, -939]],
           "id": "324",
-          "properties": { "name": "Guinea" }
+          "properties": {
+            "name": "Guinea",
+            "g20": "guest",
+            "population": "13,859,341",
+            "gdp": "$21,227,749,389"
+          }
         },
         {
           "type": "Polygon",
@@ -1763,7 +1857,12 @@
             [[1293]]
           ],
           "id": "276",
-          "properties": { "name": "Germany" }
+          "properties": {
+            "name": "Germany",
+            "g20": "member",
+            "population": "83,369,843",
+            "gdp": "$4,072,190,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -1803,7 +1902,12 @@
             [[-386, 1315, 1316]]
           ],
           "id": "250",
-          "properties": { "name": "France" }
+          "properties": {
+            "name": "France",
+            "g20": "member",
+            "population": "64,626,628",
+            "gdp": "$2,782,910,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2149,7 +2253,12 @@
             [[1516]]
           ],
           "id": "156",
-          "properties": { "name": "China" }
+          "properties": {
+            "name": "China",
+            "g20": "member",
+            "population": "1,411,750,000",
+            "gdp": "$17,963,200,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -2374,7 +2483,12 @@
             [[1707]]
           ],
           "id": "124",
-          "properties": { "name": "Canada" }
+          "properties": {
+            "name": "Canada",
+            "g20": "member",
+            "population": "38,454,327",
+            "gdp": "$2,139,840,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -2465,7 +2579,12 @@
             [[1754]]
           ],
           "id": "076",
-          "properties": { "name": "Brazil" }
+          "properties": {
+            "name": "Brazil",
+            "g20": "member",
+            "population": "215,313,498",
+            "gdp": "$1,920,100,000,000"
+          }
         },
         {
           "type": "Polygon",
@@ -2626,7 +2745,12 @@
             [[1832]]
           ],
           "id": "036",
-          "properties": { "name": "Australia" }
+          "properties": {
+            "name": "Australia",
+            "g20": "member",
+            "population": "26,177,413",
+            "gdp": "$1,675,420,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2666,7 +2790,12 @@
             [[1842]]
           ],
           "id": "032",
-          "properties": { "name": "Argentina" }
+          "properties": {
+            "name": "Argentina",
+            "g20": "member",
+            "population": "45,510,318",
+            "gdp": "$632,770,000,000"
+          }
         },
         {
           "type": "MultiPolygon",
