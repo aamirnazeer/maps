@@ -20,7 +20,7 @@ export default function MapChart() {
         projection="geoMercator"
         projectionConfig={{
           rotate: [0, 0, 0],
-          scale: 120,
+          scale: 147,
         }}
       >
         <ZoomableGroup
