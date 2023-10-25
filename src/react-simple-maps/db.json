@@ -38,8 +38,8 @@
           "properties": {
             "name": "Vietnam",
             "g20": "guest",
-            "population": "98,186,856",
-            "gdp": "$408,802,000,000"
+            "population": "98M",
+            "gdp": "$408B"
           }
         },
         {
@@ -264,8 +264,8 @@
           "properties": {
             "name": "United States of America",
             "g20": "member",
-            "population": "338,289,857",
-            "gdp": "$25,462,700,000,000"
+            "population": "338M",
+            "gdp": "$25,462B"
           }
         },
         {
@@ -383,8 +383,8 @@
           "properties": {
             "name": "United Kingdom",
             "g20": "member",
-            "population": "67,508,936",
-            "gdp": "$3,070,670,000,000"
+            "population": "67M",
+            "gdp": "$3,070B"
           }
         },
         {
@@ -431,8 +431,8 @@
           "properties": {
             "name": "Turkey",
             "g20": "member",
-            "population": "85,341,241",
-            "gdp": "$905,988,000,000"
+            "population": "85M",
+            "gdp": "$905B"
           }
         },
         {
@@ -580,8 +580,8 @@
           "properties": {
             "name": "Spain",
             "g20": "guest",
-            "population": "47,558,630",
-            "gdp": "$1,397,510,000,000"
+            "population": "47M",
+            "gdp": "$1,397B"
           }
         },
         {
@@ -603,8 +603,8 @@
           "properties": {
             "name": "South Korea",
             "g20": "member",
-            "population": "51,815,810",
-            "gdp": "$1,665,250,000,000"
+            "population": "51M",
+            "gdp": "$1,665B"
           }
         },
         {
@@ -614,8 +614,8 @@
           "properties": {
             "name": "South Africa",
             "g20": "member",
-            "population": "59,893,885",
-            "gdp": "$405,870,000,000"
+            "population": "59M",
+            "gdp": "$405B"
           }
         },
         {
@@ -676,8 +676,8 @@
           "properties": {
             "name": "Singapore",
             "g20": "guest",
-            "population": "5,975,689",
-            "gdp": "$466,789,000,000"
+            "population": "5M",
+            "gdp": "$466B"
           }
         },
         {
@@ -705,8 +705,8 @@
           "properties": {
             "name": "Senegal",
             "g20": "guest",
-            "population": "17,316,449",
-            "gdp": "$27,684,430,244"
+            "population": "17M",
+            "gdp": "$27B"
           }
         },
         {
@@ -721,8 +721,8 @@
           "properties": {
             "name": "Saudi Arabia",
             "g20": "member",
-            "population": "36,408,820",
-            "gdp": "$1,108,150,000,000"
+            "population": "36M",
+            "gdp": "$1,108B"
           }
         },
         {
@@ -879,8 +879,8 @@
           "properties": {
             "name": "Russia",
             "g20": "member",
-            "population": "144,713,314",
-            "gdp": "$2,240,420,000,000"
+            "population": "144M",
+            "gdp": "$2,240B"
           }
         },
         {
@@ -1081,8 +1081,8 @@
           "properties": {
             "name": "Norway",
             "g20": "guest",
-            "population": "5,434,319",
-            "gdp": "$579,267,000,000"
+            "population": "5M",
+            "gdp": "$579B"
           }
         },
         {
@@ -1161,8 +1161,8 @@
           "properties": {
             "name": "Netherlands",
             "g20": "guest",
-            "population": "17,564,014",
-            "gdp": "$991,115,000,000"
+            "population": "17M",
+            "gdp": "$991B"
           }
         },
         {
@@ -1261,8 +1261,8 @@
           "properties": {
             "name": "Mexico",
             "g20": "member",
-            "population": "127,504,125",
-            "gdp": "$1,414,190,000,000"
+            "population": "127M",
+            "gdp": "$1,414B"
           }
         },
         {
@@ -1491,8 +1491,8 @@
           "properties": {
             "name": "Japan",
             "g20": "member",
-            "population": "123,951,692",
-            "gdp": "$4,231,140,000,000"
+            "population": "123M",
+            "gdp": "$4,231B"
           }
         },
         {
@@ -1517,8 +1517,8 @@
           "properties": {
             "name": "Italy",
             "g20": "member",
-            "population": "59,037,474",
-            "gdp": "$2,010,430,000,000"
+            "population": "59M",
+            "gdp": "$2,010B"
           }
         },
         {
@@ -1695,8 +1695,8 @@
           "properties": {
             "name": "Indonesia",
             "g20": "member",
-            "population": "275,501,339",
-            "gdp": "$1,319,100,000,000"
+            "population": "275M",
+            "gdp": "$1,319B"
           }
         },
         {
@@ -1721,8 +1721,8 @@
           "properties": {
             "name": "India",
             "g20": "member",
-            "population": "1,417,173,173",
-            "gdp": "$3,385,090,000,000"
+            "population": "1,417M",
+            "gdp": "$3,385B"
           }
         },
         {
@@ -1776,8 +1776,8 @@
           "properties": {
             "name": "Guinea",
             "g20": "guest",
-            "population": "13,859,341",
-            "gdp": "$21,227,749,389"
+            "population": "13M",
+            "gdp": "$21B"
           }
         },
         {
@@ -1861,8 +1861,8 @@
           "properties": {
             "name": "Germany",
             "g20": "member",
-            "population": "83,369,843",
-            "gdp": "$4,072,190,000,000"
+            "population": "83M",
+            "gdp": "$4,072B"
           }
         },
         {
@@ -1906,8 +1906,8 @@
           "properties": {
             "name": "France",
             "g20": "member",
-            "population": "64,626,628",
-            "gdp": "$2,782,910,000,000"
+            "population": "64M",
+            "gdp": "$2,782B"
           }
         },
         {
@@ -2257,8 +2257,8 @@
           "properties": {
             "name": "China",
             "g20": "member",
-            "population": "1,411,750,000",
-            "gdp": "$17,963,200,000,000"
+            "population": "1,411M",
+            "gdp": "$17,963B"
           }
         },
         {
@@ -2487,8 +2487,8 @@
           "properties": {
             "name": "Canada",
             "g20": "member",
-            "population": "38,454,327",
-            "gdp": "$2,139,840,000,000"
+            "population": "38M",
+            "gdp": "$2,139B"
           }
         },
         {
@@ -2583,8 +2583,8 @@
           "properties": {
             "name": "Brazil",
             "g20": "member",
-            "population": "215,313,498",
-            "gdp": "$1,920,100,000,000"
+            "population": "215M",
+            "gdp": "$1,920B"
           }
         },
         {
@@ -2749,8 +2749,8 @@
           "properties": {
             "name": "Australia",
             "g20": "member",
-            "population": "26,177,413",
-            "gdp": "$1,675,420,000,000"
+            "population": "26M",
+            "gdp": "$1,675B"
           }
         },
         {
@@ -2794,8 +2794,8 @@
           "properties": {
             "name": "Argentina",
             "g20": "member",
-            "population": "45,510,318",
-            "gdp": "$632,770,000,000"
+            "population": "45M",
+            "gdp": "$632B"
           }
         },
         {
