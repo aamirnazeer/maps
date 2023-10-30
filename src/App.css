@@ -1,9 +1,10 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #22272f;
 }
 .main {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
@@ -51,6 +52,7 @@ ul {
 .legend-heading-box {
   display: flex;
   align-items: center;
+  text-align: center; /* Center align text */
 }
 
 .legend-heading {
@@ -63,12 +65,80 @@ ul {
   border-radius: 4px;
   padding: 10px;
   text-align: center;
-  position: absolute;
   font-size: 13px;
 }
 
 .heading {
   font-weight: bold;
+}
+
+.box {
+  display: grid;
+  width: 100%;
+  margin: 50px 20px;
+  grid-auto-flow: column dense; /* column flow with "dense" to fill all the cells */
+  grid-template-rows: auto auto; /* 2 rows */
+}
+
+/* irrelevant styles */
+.box {
+  grid-gap: 5px;
+}
+
+@media screen and (max-width: 1200px) {
+  .box {
+    grid-template-rows: auto auto auto; /* 3 rows on smaller screens */
+  }
+  .react-simple-maps-container {
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    height: auto;
+  }
+  .legend-large {
+    display: none;
+  }
+  .legend-container {
+    display: flex;
+  }
+}
+
+.legend-small {
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 1199px) {
+  .legend-small {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .box {
+    grid-template-rows: auto auto auto auto; /* 4 rows on smaller screens */
+  }
+  .two-column-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Centers and adds space between columns */
+    padding: 0; /* Remove default padding */
+  }
+
+  .two-column-list li {
+    flex-basis: calc(
+      50% - 10px
+    ); /* Two columns with space in between (adjust the value as needed) */
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+  }
+  .list2 {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .box {
+    grid-template-rows: auto auto auto auto auto; /* 5 rows on smaller screens */
+  }
 }
 
 .fact1 {

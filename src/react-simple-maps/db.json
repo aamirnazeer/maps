@@ -8,13 +8,23 @@
           "type": "Polygon",
           "arcs": [[0, 1, 2, 3]],
           "id": "716",
-          "properties": { "name": "Zimbabwe" }
+          "properties": {
+            "name": "Zimbabwe",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-3, 4, 5, 6, 7, 8, 9]],
           "id": "894",
-          "properties": { "name": "Zambia" }
+          "properties": {
+            "name": "Zambia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -412,7 +422,12 @@
           "type": "Polygon",
           "arcs": [[293, 294, 295, 296, 297]],
           "id": "800",
-          "properties": { "name": "Uganda" }
+          "properties": {
+            "name": "Uganda",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -439,7 +454,12 @@
           "type": "MultiPolygon",
           "arcs": [[[314, 315, 316]], [[317]], [[318]]],
           "id": "788",
-          "properties": { "name": "Tunisia" }
+          "properties": {
+            "name": "Tunisia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -457,7 +477,12 @@
           "type": "Polygon",
           "arcs": [[324, 325, 326, 327]],
           "id": "768",
-          "properties": { "name": "Togo" }
+          "properties": {
+            "name": "Togo",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -491,7 +516,12 @@
             [[357]]
           ],
           "id": "834",
-          "properties": { "name": "Tanzania" }
+          "properties": {
+            "name": "Tanzania",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -528,13 +558,23 @@
             [[382]]
           ],
           "id": "752",
-          "properties": { "name": "Sweden" }
+          "properties": {
+            "name": "Sweden",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[383, 384]],
           "id": "748",
-          "properties": { "name": "eSwatini" }
+          "properties": {
+            "name": "eSwatini",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -546,13 +586,23 @@
           "type": "Polygon",
           "arcs": [[-297, 389, 390, 391, 392, 393]],
           "id": "728",
-          "properties": { "name": "S. Sudan" }
+          "properties": {
+            "name": "S. Sudan",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-392, 394, 395, 396, 397, 398, 399, 400]],
           "id": "729",
-          "properties": { "name": "Sudan" }
+          "properties": {
+            "name": "Sudan",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -622,7 +672,12 @@
           "type": "Polygon",
           "arcs": [[440, 441, 442, 443]],
           "id": "706",
-          "properties": { "name": "Somalia" }
+          "properties": {
+            "name": "Somalia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -661,13 +716,23 @@
           "type": "Polygon",
           "arcs": [[-289, 468, 469, 470, 471]],
           "id": "703",
-          "properties": { "name": "Slovakia" }
+          "properties": {
+            "name": "Slovakia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[472, 473, 474, 475, 476]],
           "id": "705",
-          "properties": { "name": "Slovenia" }
+          "properties": {
+            "name": "Slovenia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -684,13 +749,23 @@
           "type": "MultiPolygon",
           "arcs": [[[478, 479, 480]], [[481]]],
           "id": "694",
-          "properties": { "name": "Sierra Leone" }
+          "properties": {
+            "name": "Sierra Leone",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[482]],
           "id": "690",
-          "properties": { "name": "Seychelles" }
+          "properties": {
+            "name": "Seychelles",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -729,7 +804,12 @@
           "type": "MultiPolygon",
           "arcs": [[[509]], [[510]]],
           "id": "678",
-          "properties": { "name": "São Tomé and Principe" }
+          "properties": {
+            "name": "São Tomé and Principe",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -765,7 +845,12 @@
           "type": "Polygon",
           "arcs": [[-295, -353, 520, 521]],
           "id": "646",
-          "properties": { "name": "Rwanda" }
+          "properties": {
+            "name": "Rwanda",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -887,7 +972,12 @@
           "type": "Polygon",
           "arcs": [[-285, 640, 641, -491, 642, -287, 643]],
           "id": "642",
-          "properties": { "name": "Romania" }
+          "properties": {
+            "name": "Romania",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -909,13 +999,23 @@
             [[653]]
           ],
           "id": "620",
-          "properties": { "name": "Portugal" }
+          "properties": {
+            "name": "Portugal",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-290, -472, 654, 655, 656, 657, 658, -637, 659, 660]],
           "id": "616",
-          "properties": { "name": "Poland" }
+          "properties": {
+            "name": "Poland",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1095,13 +1195,23 @@
           "type": "MultiPolygon",
           "arcs": [[[801]], [[802, 803, 804, 805, 806]]],
           "id": "566",
-          "properties": { "name": "Nigeria" }
+          "properties": {
+            "name": "Nigeria",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-807, 807, 808, 809, 810, 811, 812]],
           "id": "562",
-          "properties": { "name": "Niger" }
+          "properties": {
+            "name": "Niger",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -1193,19 +1303,34 @@
           "type": "Polygon",
           "arcs": [[-5, 852, -437, 853, 854]],
           "id": "516",
-          "properties": { "name": "Namibia" }
+          "properties": {
+            "name": "Namibia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-4, -10, 855, -356, 856, -435, -384, -434], [857], [858]],
           "id": "508",
-          "properties": { "name": "Mozambique" }
+          "properties": {
+            "name": "Mozambique",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[859, 860, 861]],
           "id": "504",
-          "properties": { "name": "Morocco" }
+          "properties": {
+            "name": "Morocco",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -1269,25 +1394,45 @@
           "type": "Polygon",
           "arcs": [[892]],
           "id": "480",
-          "properties": { "name": "Mauritius" }
+          "properties": {
+            "name": "Mauritius",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[893]], [[-498, 894, -864, 895, 896]]],
           "id": "478",
-          "properties": { "name": "Mauritania" }
+          "properties": {
+            "name": "Mauritania",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[897]], [[898]]],
           "id": "470",
-          "properties": { "name": "Malta" }
+          "properties": {
+            "name": "Malta",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-492, -897, 899, -810, 900, 901, 902]],
           "id": "466",
-          "properties": { "name": "Mali" }
+          "properties": {
+            "name": "Mali",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1315,13 +1460,23 @@
           "type": "MultiPolygon",
           "arcs": [[[-859]], [[-858]], [[-9, -357, -856]]],
           "id": "454",
-          "properties": { "name": "Malawi" }
+          "properties": {
+            "name": "Malawi",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[919]], [[920]], [[921]]],
           "id": "450",
-          "properties": { "name": "Madagascar" }
+          "properties": {
+            "name": "Madagascar",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -1333,13 +1488,23 @@
           "type": "Polygon",
           "arcs": [[926, 927, 928]],
           "id": "442",
-          "properties": { "name": "Luxembourg" }
+          "properties": {
+            "name": "Luxembourg",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-639, 929]], [[-636, 930, 931, 932, -660]]],
           "id": "440",
-          "properties": { "name": "Lithuania" }
+          "properties": {
+            "name": "Lithuania",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -1351,19 +1516,34 @@
           "type": "Polygon",
           "arcs": [[-315, 934, 935, -397, 936, -812, 937]],
           "id": "434",
-          "properties": { "name": "Libya" }
+          "properties": {
+            "name": "Libya",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-479, 938, 939, 940]],
           "id": "430",
-          "properties": { "name": "Liberia" }
+          "properties": {
+            "name": "Liberia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-439]],
           "id": "426",
-          "properties": { "name": "Lesotho" }
+          "properties": {
+            "name": "Lesotho",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -1375,7 +1555,12 @@
           "type": "Polygon",
           "arcs": [[-932, 943, 944, -550, 945]],
           "id": "428",
-          "properties": { "name": "Latvia" }
+          "properties": {
+            "name": "Latvia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -1430,7 +1615,12 @@
           "type": "MultiPolygon",
           "arcs": [[[974]], [[-298, -394, 975, -441, 976, -354]]],
           "id": "404",
-          "properties": { "name": "Kenya" }
+          "properties": {
+            "name": "Kenya",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1537,7 +1727,12 @@
           "type": "MultiPolygon",
           "arcs": [[[1039]], [[-269, 1040]]],
           "id": "372",
-          "properties": { "name": "Ireland" }
+          "properties": {
+            "name": "Ireland",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -1735,7 +1930,12 @@
           "type": "Polygon",
           "arcs": [[-288, -643, -490, 1206, -477, 1207, -469]],
           "id": "348",
-          "properties": { "name": "Hungary" }
+          "properties": {
+            "name": "Hungary",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1767,7 +1967,12 @@
             [[1227]]
           ],
           "id": "624",
-          "properties": { "name": "Guinea-Bissau" }
+          "properties": {
+            "name": "Guinea-Bissau",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -1837,13 +2042,23 @@
             [[-313, 1274, 1275, -924, 1276]]
           ],
           "id": "300",
-          "properties": { "name": "Greece" }
+          "properties": {
+            "name": "Greece",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-327, 1277, 1278, 1279, 1280, 1281]],
           "id": "288",
-          "properties": { "name": "Ghana" }
+          "properties": {
+            "name": "Ghana",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1875,13 +2090,23 @@
           "type": "Polygon",
           "arcs": [[-496, 1297]],
           "id": "270",
-          "properties": { "name": "Gambia" }
+          "properties": {
+            "name": "Gambia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[1298, 1299, 1300, 1301]],
           "id": "266",
-          "properties": { "name": "Gabon" }
+          "properties": {
+            "name": "Gabon",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -1993,7 +2218,12 @@
             [[1364]]
           ],
           "id": "246",
-          "properties": { "name": "Finland" }
+          "properties": {
+            "name": "Finland",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2026,25 +2256,45 @@
           "type": "Polygon",
           "arcs": [[-393, -401, 1385, 1386, -445, -442, -976]],
           "id": "231",
-          "properties": { "name": "Ethiopia" }
+          "properties": {
+            "name": "Ethiopia",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-945, 1387, -551]], [[1388]], [[1389]], [[1390]]],
           "id": "233",
-          "properties": { "name": "Estonia" }
+          "properties": {
+            "name": "Estonia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-400, 1391, 1392, -1386]], [[1393]], [[1394]]],
           "id": "232",
-          "properties": { "name": "Eritrea" }
+          "properties": {
+            "name": "Eritrea",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[1395]], [[-1301, 1396, 1397]]],
           "id": "226",
-          "properties": { "name": "Eq. Guinea" }
+          "properties": {
+            "name": "Eq. Guinea",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -2056,7 +2306,12 @@
           "type": "Polygon",
           "arcs": [[-398, -936, 1399, -1038, -1035, 1400]],
           "id": "818",
-          "properties": { "name": "Egypt" }
+          "properties": {
+            "name": "Egypt",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2090,7 +2345,12 @@
           "type": "Polygon",
           "arcs": [[-446, -1387, -1393, 1413]],
           "id": "262",
-          "properties": { "name": "Djibouti" }
+          "properties": {
+            "name": "Djibouti",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2139,13 +2399,23 @@
             [[1447]]
           ],
           "id": "208",
-          "properties": { "name": "Denmark" }
+          "properties": {
+            "name": "Denmark",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-471, 1448, -1288, -655]],
           "id": "203",
-          "properties": { "name": "Czechia" }
+          "properties": {
+            "name": "Czechia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -2156,7 +2426,12 @@
           "type": "Polygon",
           "arcs": [[-1450, 1451]],
           "id": "196",
-          "properties": { "name": "Cyprus" }
+          "properties": {
+            "name": "Cyprus",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2190,13 +2465,23 @@
             [[-869, 1472, 1473]]
           ],
           "id": "191",
-          "properties": { "name": "Croatia" }
+          "properties": {
+            "name": "Croatia",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[-1279, 1474]], [[-902, 1475, -1281, 1476, -940, -1230]]],
           "id": "384",
-          "properties": { "name": "Côte d'Ivoire" }
+          "properties": {
+            "name": "Côte d'Ivoire",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -2210,19 +2495,34 @@
             [-7, 1479, 1480, 1481, 1482, 1483, -390, -296, -522, 1484, -351]
           ],
           "id": "180",
-          "properties": { "name": "Dem. Rep. Congo" }
+          "properties": {
+            "name": "Dem. Rep. Congo",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-1299, 1485, 1486, -1483, 1487, 1488]],
           "id": "178",
-          "properties": { "name": "Congo" }
+          "properties": {
+            "name": "Congo",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
           "arcs": [[[1489]], [[1490]], [[1491]]],
           "id": "174",
-          "properties": { "name": "Comoros" }
+          "properties": {
+            "name": "Comoros",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2315,13 +2615,23 @@
           "type": "Polygon",
           "arcs": [[-396, 1555, 1556, -803, -813, -937]],
           "id": "148",
-          "properties": { "name": "Chad" }
+          "properties": {
+            "name": "Chad",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-391, -1484, -1487, 1557, -1556, -395]],
           "id": "140",
-          "properties": { "name": "Central African Rep." }
+          "properties": {
+            "name": "Central African Rep.",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2336,7 +2646,12 @@
             [[1565]]
           ],
           "id": "132",
-          "properties": { "name": "Cabo Verde" }
+          "properties": {
+            "name": "Cabo Verde",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2495,7 +2810,12 @@
           "type": "Polygon",
           "arcs": [[-804, -1557, -1558, -1486, -1302, -1398, 1708]],
           "id": "120",
-          "properties": { "name": "Cameroon" }
+          "properties": {
+            "name": "Cameroon",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2533,19 +2853,34 @@
           "type": "Polygon",
           "arcs": [[-352, -1485, -521]],
           "id": "108",
-          "properties": { "name": "Burundi" }
+          "properties": {
+            "name": "Burundi",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-328, -1282, -1476, -901, -809, 1732]],
           "id": "854",
-          "properties": { "name": "Burkina Faso" }
+          "properties": {
+            "name": "Burkina Faso",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
           "arcs": [[-314, -1277, -923, -484, -642, 1733]],
           "id": "100",
-          "properties": { "name": "Bulgaria" }
+          "properties": {
+            "name": "Bulgaria",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2591,7 +2926,12 @@
           "type": "Polygon",
           "arcs": [[-2, -438, -853]],
           "id": "072",
-          "properties": { "name": "Botswana" }
+          "properties": {
+            "name": "Botswana",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -2615,7 +2955,12 @@
           "type": "Polygon",
           "arcs": [[-325, -1733, -808, -806, 1757]],
           "id": "204",
-          "properties": { "name": "Benin" }
+          "properties": {
+            "name": "Benin",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2627,7 +2972,12 @@
           "type": "Polygon",
           "arcs": [[-833, -1284, -929, -1308, 1761, -836]],
           "id": "056",
-          "properties": { "name": "Belgium" }
+          "properties": {
+            "name": "Belgium",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "Polygon",
@@ -2697,7 +3047,12 @@
           "type": "Polygon",
           "arcs": [[-370, -1289, -1449, -470, -1208, -476, -1023, -372, -934]],
           "id": "040",
-          "properties": { "name": "Austria" }
+          "properties": {
+            "name": "Austria",
+            "g20": "newMember",
+            "population": "448.4M",
+            "gdp": "$18.35T"
+          }
         },
         {
           "type": "MultiPolygon",
@@ -2808,7 +3163,12 @@
           "type": "MultiPolygon",
           "arcs": [[[-1482, 1845, -1488]], [[-6, -855, 1846, -1480]]],
           "id": "024",
-          "properties": { "name": "Angola" }
+          "properties": {
+            "name": "Angola",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
@@ -2820,7 +3180,12 @@
           "type": "Polygon",
           "arcs": [[-316, -938, -811, -900, -896, -863, -860, 1847]],
           "id": "012",
-          "properties": { "name": "Algeria" }
+          "properties": {
+            "name": "Algeria",
+            "g20": "newMember",
+            "population": "1.43B",
+            "gdp": "$3T"
+          }
         },
         {
           "type": "Polygon",
